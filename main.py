@@ -1,5 +1,6 @@
 import requests
 
+
 def parser():
     for i in range(1, 1000):
         response = requests.get(
@@ -10,7 +11,6 @@ def parser():
             out.write(response.content)
             out.close()
         else: return
-
 
 
 if __name__ == '__main__':
