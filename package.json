@@ -1,0 +1,17 @@
+{
+  "name": "-bbb-presentation-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "image-downloader": "^4.1.0",
+    "sharp": "^0.30.3"
+  }
+}
