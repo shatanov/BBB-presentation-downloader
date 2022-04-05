@@ -1,3 +1,5 @@
+'use strict';
+
 const download = require('image-downloader');
 
 
