@@ -30,7 +30,7 @@ function findPhoto(options) {
 
 
 const options = {
-    url: 'https://sun9-69.userapi.com/impf/UxOOwlwyxP1HyYKa1ysbLgWD5GVJBGXn_ErDuw/xU8LFOUu_Lg.jpg?size=1920x1080&quality=96&sign=8146b4d8831e1107dae73fb14542897c&type=album',
+    url: '',
     path: 'photo/img.png',
     files: 10
 };
